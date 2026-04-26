@@ -27,7 +27,7 @@ using pure HTML5 and CSS3.
 
 ## Run it
 
-git clone https://github.com/yourusername/tcs.git
+git clone https://github.com/pawniparakh/tcs.git
 cd tcs
 open index.html
 
